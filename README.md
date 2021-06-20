@@ -1,4 +1,4 @@
-# COPYRIGHT BY - SUMIT SURESH GOLE 
+# COPYRIGHT BY - LAYA M R 
 
 # THE SPARKS FOUNDATION
 
@@ -28,4 +28,4 @@ FRONT END : HTML, CSS, JavaScript, Bootstrap<br>
 BACK END : PHP<br>
 DATABASE : MySQL<br>
 <br>
-This website is hosted at infinityfree : http://thesparksbank.epizy.com/
+
